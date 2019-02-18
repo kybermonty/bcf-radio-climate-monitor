@@ -1,8 +1,0 @@
-article: https://www.bigclown.com/doc/projects/radio-climate-monitor/
-images:
-  - title:
-    url: https://www.bigclown.com/kits/climate-monitor/main.png
-assembly:
-  - name: BigClown Climate Module
-  - name: BigClown Core Module
-  - name: BigClown Mini Battery Module
